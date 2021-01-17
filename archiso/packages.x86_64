@@ -47,6 +47,10 @@ linux
 linux-atm
 linux-firmware
 linux-headers
+linux-surface-headers
+linux-surface
+surface-ipts-firmware
+iptsd
 logrotate
 lsscsi
 lvm2
